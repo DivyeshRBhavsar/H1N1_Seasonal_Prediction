@@ -1,0 +1,13 @@
+String_Column,Cramers_V,Effect_Size
+employment_occupation,0.2582,Small
+employment_industry,0.2574,Small
+education,0.0697,Negligible
+hhs_geo_region,0.0588,Negligible
+income_poverty,0.0585,Negligible
+marital_status,0.0511,Negligible
+age_group,0.051,Negligible
+race,0.0462,Negligible
+rent_or_own,0.0345,Negligible
+employment_status,0.031,Negligible
+sex,0.0206,Negligible
+census_msa,0.0021,Negligible

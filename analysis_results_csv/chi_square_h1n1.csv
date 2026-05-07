@@ -1,0 +1,13 @@
+String_Column,Chi2_Statistic,P_Value,Significant,DOF
+age_group,69.4458,0.0,Yes,4
+education,123.0427,0.0,Yes,3
+race,57.0112,0.0,Yes,3
+income_poverty,76.2926,0.0,Yes,2
+rent_or_own,29.3986,0.0,Yes,1
+marital_status,66.1042,0.0,Yes,1
+employment_industry,886.5258,0.0,Yes,20
+hhs_geo_region,92.4723,0.0,Yes,9
+employment_occupation,882.306,0.0,Yes,22
+employment_status,24.2317,5e-06,Yes,2
+sex,11.31,0.000771,Yes,1
+census_msa,0.1141,0.944542,No,2
